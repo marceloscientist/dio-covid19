@@ -9,8 +9,7 @@ function App() {
     <StylesProvider injectFirst>
       <CssBaseline />
       <GlobalStyle />
-      <Main />
-    
+      <Main />   
     </StylesProvider>
   );
 }
